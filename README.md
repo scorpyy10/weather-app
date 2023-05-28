@@ -2,15 +2,11 @@
 
 > A simple Weather App developed using React and the Open Weather API
 
-- [Demo](#demo)
+
 - [Install](#install)
 - [Stack](#stack)
 - [Contributing](#contributing)
-- [Author](#author)
 
-## Demo
-
-To view a demo online: [Weather App](https://chernyshevartemiy.github.io/weather-app/)
 
 ## Install
 
